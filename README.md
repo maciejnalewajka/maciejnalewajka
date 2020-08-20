@@ -11,12 +11,12 @@
 <br>
 <br>
 
-🥏[Portfolio][Portfolio] ****
-🐦[Twitter][Twitter] ****
-😃📘[Facebook][Facebook] ****
-👔[Linkedin][Linkedin] ****
-🎮[PlayStore][PlayStore] ****
-📧[Email]<a href="mailto:nalewajkamaciek@gmail.com"><span class="label">Email</span></a>
+🥏[Portfolio][Portfolio]
+🐦[Twitter][Twitter]
+😃📘[Facebook][Facebook]
+👔[Linkedin][Linkedin]
+🎮[PlayStore][PlayStore]
+📧<a href="mailto:nalewajkamaciek@gmail.com"><span class="label">Email</span></a>
 
 
 [Portfolio]: https://maciejnalewajka.github.io/
