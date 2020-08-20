@@ -1,4 +1,7 @@
-### Hi there. I'm Maciek.[hello]
+### Hi there. 🖐️ I'm Maciek. 👋
 
+## I'm a Android Developer.
 
-[hello]: https://img.icons8.com/emoji/48/000000/waving-hand-emoji.png
+- 🧑‍💻 I'm looking for a job as Android Developer.
+- ‍💻 I'm currently working on Weather app.
+- 📚 I'm currently learning more about Android.
