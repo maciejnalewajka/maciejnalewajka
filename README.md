@@ -14,7 +14,7 @@
 🥏[Portfolio][Portfolio]
 🐦[Twitter][Twitter]
 😃📘[Facebook][Facebook]
-👔[Linkedin][Linkedin]
+👔[LinkedIn][LinkedIn]
 🎮[PlayStore][PlayStore]
 📧<a href="mailto:nalewajkamaciek@gmail.com"><span class="label">Email</span></a>
 
@@ -22,5 +22,5 @@
 [Portfolio]: https://maciejnalewajka.github.io/
 [Twitter]: https://twitter.com/Maciej75204469
 [Facebook]: https://www.facebook.com/maciek.nalewajka
-[Linkedin]: https://www.linkedin.com/in/maciejnalewajka/
+[LinkedIn]: https://www.linkedin.com/in/maciejnalewajka/
 [PlayStore]: https://play.google.com/store/apps/developer?id=Maciej+Nalewajka
