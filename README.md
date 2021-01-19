@@ -12,7 +12,6 @@
 <br>
 
 🥏[Portfolio][Portfolio]
-🐦[Twitter][Twitter]
 😃📘[Facebook][Facebook]
 👔[LinkedIn][LinkedIn]
 🎮[PlayStore][PlayStore]
