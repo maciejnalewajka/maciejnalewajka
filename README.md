@@ -9,7 +9,9 @@
 - 📚 I'm currently learning more about Android.
 
 <br>
-_Any commit is good if it improves the readability of the code._
+
+*Any commit is good if it improves the readability of the code.*
+
 <br>
 
 🥏[Portfolio][Portfolio]
