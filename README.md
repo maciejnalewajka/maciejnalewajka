@@ -1,14 +1,6 @@
 # Hi there. I'm Maciek 🖐️😷
 
-## I'm a Android Developer.
 
-<br>
-
-- 🧑‍ I'm looking for a job as Android Developer.
-- ‍💻 I'm currently working on Weather app.
-- 📚 I'm currently learning more about Android.
-
-<br>
 
 *Any commit is good if it improves the readability of the code.*
 
