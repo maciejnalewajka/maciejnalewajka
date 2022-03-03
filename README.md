@@ -1,4 +1,4 @@
-# Hi there. I'm Maciek 🖐️😷
+# Hi, i'm Maciej 🖐️😷
 
 
 
